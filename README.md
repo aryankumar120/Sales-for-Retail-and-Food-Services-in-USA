@@ -58,6 +58,7 @@ Prior to analysis, the raw data undergoes necessary preprocessing to clean, stru
 **Filtering and Interactivity:** Interactive elements allowing users to filter data based on specific criteria and perform ad-hoc analysis.
 
 ## Technologies Used
+
 **SQL:** For data extraction, transformation, and loading into the database.
 
 **Database Management System:** PostgreSQL to host and manage the dataset.
@@ -68,6 +69,7 @@ Prior to analysis, the raw data undergoes necessary preprocessing to clean, stru
 
 
 **Conclusion**
+
 The Sales for Retail and Food Services in the U.S.A. project offers a comprehensive, data-backed exploration of industry sales trends. By combining trustworthy government-sourced data with powerful SQL-based analysis and interactive visualization tools, the project enables deep insights for businesses, policymakers, and analysts. Whether for strategic decision-making or economic research, this analysis provides a clear, insightful view into sales dynamics across time, categories, and regions.
 
 
